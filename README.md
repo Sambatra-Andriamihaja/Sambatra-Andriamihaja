@@ -1,14 +1,16 @@
 ![welcome](assets/gif/welcome.gif)
 
+---
+
 ## 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/sambatra-andriamihaja-b439361b9/">
-    <img align="left" src="assets/svg/icons8-linkedin.svg" alt="Sambatra | LinkedIn" width="21px"/>
+    <img align="left" src="assets/svg/connect-with-me/icons8-linkedin.svg" alt="Sambatra | LinkedIn" width="21px"/>
 </a>
 <a href="mailto:andriamihajasam@yahoo.com">
-    <img align="left" src="assets/svg/icons8-yahoo-mail-app.svg" alt="Sambatra | Yahoo Mail" width="21px"/>
+    <img align="left" src="assets/svg/connect-with-me/icons8-yahoo-mail-app.svg" alt="Sambatra | Yahoo Mail" width="21px"/>
 </a>
 <a href="mailto:sambatra.andriamihaja@outlook.com">
-    <img align="left" src="assets/svg/icons8-microsoft-outlook.svg" alt="Sambatra | Outlook Mail" width="21px"/>
+    <img align="left" src="assets/svg/connect-with-me/icons8-microsoft-outlook.svg" alt="Sambatra | Outlook Mail" width="21px"/>
 </a>
 
 ---
@@ -115,7 +117,7 @@ hobbies: [
     <img src="assets/svg/tech-stack/db/mariadb-icon.svg" alt="mariadb" width="45" height="45"/>
     <img src="assets/svg/tech-stack/db/oracle-original.svg" alt="oracle" width="45" height="45"/>
     <img src="assets/svg/tech-stack/db/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
-    <img src="assets/svg/tech-stack/db/objectbox.svg" alt="objectbox - flutter" width="45" height="45"/>
+    <img src="assets/svg/tech-stack/db/objectbox.svg" alt="objectbox - flutter" width="45"/>
     <img src="assets/svg/tech-stack/db/sqlite-original-wordmark.svg" alt="sqlite" width="45" height="45"/>
     <img src="assets/svg/tech-stack/db/microsoftsqlserver-plain-wordmark.svg" alt="microsoftsqlserver" width="45" height="45"/>
 </p>
