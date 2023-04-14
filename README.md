@@ -69,6 +69,7 @@ hobbies: [
     <img src="assets/svg/tech-stack/languages/elixir-original-wordmark.svg" alt="elixir" width="45" height="45"/>
     <img src="assets/svg/tech-stack/languages/embeddedc-original-wordmark.svg" alt="embedded c" width="45" height="45"/>
     <img src="assets/svg/tech-stack/languages/rust-plain.svg" alt="rust" width="45" height="45"/>
+    <img src="assets/svg/tech-stack/languages/go-original.svg" alt="go" width="45" height="45"/>
     <img src="assets/svg/tech-stack/languages/php-plain.svg" alt="php" width="45" height="45"/>
 </p>
 
@@ -185,6 +186,7 @@ hobbies: [
     <img src="assets/svg/tech-stack/other-tools/jquery-original-wordmark.svg" alt="jquery" width="45" height="45"/>
     <img src="assets/svg/tech-stack/other-tools/json.svg" alt="json" width="45" height="45"/>
     <img src="assets/svg/tech-stack/other-tools/moodle-original-wordmark.svg" alt="vscode" width="45" height="45"/>
+    <img src="assets/svg/tech-stack/other-tools/npm-original-wordmark.svg" alt="npm" width="45" height="45"/>
     <img src="assets/svg/tech-stack/other-tools/Odoo-Logo.wine.svg" alt="odoo" width="45" height="45"/>
     <img src="assets/svg/tech-stack/other-tools/ssh-original-wordmark.svg" alt="ssh" width="45" height="45"/>
 </p>
