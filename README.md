@@ -42,13 +42,14 @@ technical_background: [
     "End-of-Study Internship for Bachelor's degree - Web App Development"
 ]
 currently_learning: [
-    "Nginx",
+    "Go",
     "Rust",
+    "Nginx",
     "Odoo",
     "Elixir & Phoenix"
 ]
 hobbies: [
-    "Travel", 
+    "Traveling", 
     "Drawing", 
     "Art",
     "Music",
