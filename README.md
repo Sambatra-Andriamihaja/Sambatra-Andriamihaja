@@ -92,9 +92,9 @@ hobbies: [
 
 ### Mobile App Development
 <p align="left">
-    <img src="assets/svg/tech-stack/mobile-app-development/flutter-original.svg" alt="flutter" width="45" height="45"/>
-    <img src="assets/svg/tech-stack/mobile-app-development/icons8-react-native.svg" alt="ionic" width="45" height="45"/>
+    <img src="assets/svg/tech-stack/mobile-app-development/flutter-original.svg" alt="flutter" width="45" height="45"/>    
     <img src="assets/svg/tech-stack/mobile-app-development/dart-original-wordmark.svg" alt="dart" width="45" height="45"/>
+    <img src="assets/svg/tech-stack/mobile-app-development/icons8-react-native.svg" alt="react native" width="45" height="45"/>
     <img src="assets/svg/tech-stack/mobile-app-development/android-original-wordmark.svg" alt="android" width="45" height="45"/>
     <img src="assets/svg/tech-stack/mobile-app-development/ionic-original-wordmark.svg" alt="ionic" width="45" height="45"/>
 </p>
