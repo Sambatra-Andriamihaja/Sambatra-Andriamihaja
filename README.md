@@ -21,8 +21,8 @@
 ```yaml
 name: Sambatra Andriamihaja
 located_in: Antananarivo, Madagascar
-current_job: Software Developer
-current_company: MGBI (Madagascar Business Intelligence)
+current_job: Fullstack Developer
+current_company: Smart Predict
 education: [
     "Master of Science degree in Big data Intelligence for Human Augmented Reality - ESTIA (Bidart, France) & ITUniversity (Antananarivo, Madagascar)",
     "Bachelor's degree in Computer Science, Development option - ITUniversity (Antananarivo, Madagascar)",
@@ -42,11 +42,9 @@ technical_background: [
     "End-of-Study Internship for Bachelor's degree - Web App Development"
 ]
 currently_learning: [
-    "Go",
-    "Rust",
-    "Nginx",
-    "Odoo",
-    "Elixir & Phoenix"
+    "GraphQL",
+    "Prisma",
+    "React Native"
 ]
 hobbies: [
     "Traveling", 
