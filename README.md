@@ -21,8 +21,8 @@
 ```yaml
 name: Sambatra Andriamihaja
 located_in: Antananarivo, Madagascar
-current_job: Full Stack JS Developer
-current_company: Smart Predict
+current_job: Growth Engineer, Full Stack JS Developer
+current_company: ValanoTech
 education:
   [
     "Master of Science degree in Big data Intelligence for Human Augmented Reality - ESTIA (Bidart, France) & ITUniversity (Antananarivo, Madagascar)",
@@ -40,18 +40,19 @@ fields_of_interests:
   ]
 technical_background:
   [
+    "Growth Engineer",
     "Full Stack JS Development",
     "Intern - Software Development",
     "End-of-Study Internship for Master's degree - Mobile App Development & Internet Of Things & Data Science",
     "End-of-Study Internship for Bachelor's degree - Web App Development",
   ]
-currently_learning: ["Next.js", "React", "GraphQL", "Prisma", "React Native"]
-hobbies: ["Traveling", "Drawing", "Art", "Music", "Gaming"]
+currently_learning: ["Make.com", "n8n", "Nest.js", "Next.js"]
+hobbies: ["Adventure", "Conceptual Sketching", "Volunteering"]
 ```
 
 ---
 
-## 🚀 Some Tools I Have Used and Learned
+<!-- ## 🚀 Some Tools I Have Used and Learned
 
 ### Programming Languages
 
@@ -92,7 +93,7 @@ hobbies: ["Traveling", "Drawing", "Art", "Music", "Gaming"]
 ### Mobile App Development
 
 <p align="left">
-    <img src="assets/svg/tech-stack/mobile-app-development/flutter-original.svg" alt="flutter" width="45" height="45"/>    
+    <img src="assets/svg/tech-stack/mobile-app-development/flutter-original.svg" alt="flutter" width="45" height="45"/>
     <img src="assets/svg/tech-stack/mobile-app-development/dart-original-wordmark.svg" alt="dart" width="45" height="45"/>
     <img src="assets/svg/tech-stack/mobile-app-development/icons8-react-native.svg" alt="react native" width="45" height="45"/>
     <img src="assets/svg/tech-stack/mobile-app-development/android-original-wordmark.svg" alt="android" width="45" height="45"/>
@@ -201,4 +202,4 @@ hobbies: ["Traveling", "Drawing", "Art", "Music", "Gaming"]
     <img src="assets/svg/tech-stack/other-tools/ssh-original-wordmark.svg" alt="ssh" width="45" height="45"/>
 </p>
 
----
+--- -->
