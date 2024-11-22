@@ -37,6 +37,7 @@ fields_of_interests:
     "UI/UX",
     "Game Development",
     "DevOps",
+    "Automation",
   ]
 technical_background:
   [
